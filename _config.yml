@@ -1,0 +1,8 @@
+# Site
+name: "Triple-x-Program"
+title: "Triple-x-Program"
+description: "Train for life"
+favicon: 'assets/images/logo.png'
+baseurl: /Triple-X-Program
+permalink: /:title/
+email: eromegyaviira98@gmail.com
